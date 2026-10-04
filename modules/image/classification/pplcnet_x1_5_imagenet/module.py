@@ -152,3 +152,4 @@ class PPLcNet_x1_5:
         Add the command input options.
         """
         self.arg_input_group.add_argument('--input_path', type=str, help="path to input image.")
+# 3f9cb3
