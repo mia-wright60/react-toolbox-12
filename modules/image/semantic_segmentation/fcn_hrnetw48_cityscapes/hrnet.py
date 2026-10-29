@@ -526,3 +526,4 @@ class FuseLayers(nn.Layer):
             outs.append(residual)
 
         return outs
+# 25bbcf
